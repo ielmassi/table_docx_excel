@@ -1,5 +1,5 @@
 # table_docx_excel
-You can use this script to extract tables from docx files and save it in excel files.
+You can use this script to extract tables from docx files and save them in excel files.
 
 # Requirements
 installation of python-docx api:
